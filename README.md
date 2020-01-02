@@ -1,5 +1,5 @@
 # BallotBot
-_I am a work in progress; not all features have been implemented yet._
+_I am a work in progress; not all features have been implemented yet._\
 A Discord bot meant to deliver democracy upon the disenfranchised masses.
 To vote, simply react to the ballot message with the appropriate emoji.
 
@@ -22,7 +22,7 @@ This file has the following format and fields:
 	"command": "callvote",
 	"for_emoji": "\uD83D\uDC4D",
 	"against_emoji": "\uD83D\uDC4E",
-	"present_emoji": "\uD83D\uDC4C"
+	"present_emoji": "\uD83D\uDC4C",
 	"prune_days": "7"
 }
 ```
