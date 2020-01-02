@@ -1,0 +1,22 @@
+{
+  "name": "ballotbot",
+  "version": "1.0.0",
+  "description": "Discord democracy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/chzheng/ballotbot.git"
+  },
+  "author": "Charlie Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/chzheng/ballotbot/issues"
+  },
+  "homepage": "https://gitlab.com/chzheng/ballotbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
